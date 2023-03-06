@@ -2,7 +2,7 @@
 <h3 align="center">A passionate programming enthusiast currently living in Germany.</h3>
 
 - 🔭 I’m currently working on **Virtual environment integration for hand glove with sensor using Unity.**
-- 🔭 Developing an OpenAI chatGPT application which can help a person code better
+- 🔭 Developing an OpenAI chatGPT application which can help a person code better.
 
 - 📫 How to reach me **devdarshan98@gmail.com**
 
