@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dev Darshan Kasthuri Umashankar</h1>
 <h3 align="center">A passionate programming enthusiast currently living in Germany.</h3>
 
-- 🔭 I’m currently working on **Virtual environment integration for hand glove with sensor using Unity.**
+- 🔭 I’m currently working as a Software Engineer Intern at KEYSIGHT Technologies, Stuttgart Region, Germany.
 - 🔭 Developing an OpenAI chatGPT application which can help a person code better.
 
 - 📫 How to reach me **devdarshan98@gmail.com**
