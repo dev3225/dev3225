@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dev Darshan Kasthuri Umashankar</h1>
-<h3 align="center">A passionate programming enthusiast currently living in Germany.</h3>
+<h3 align="center">A passionate programming enthusiast currently living in Germany pursuing my masters in computational engineering with mechatronics as my specialization.</h3>
 
 - 🔭 I’m currently working as a Software Engineer Intern at KEYSIGHT Technologies, Böblingen,Stuttgart, Germany.
 - 🔭 Developing an OpenAI chatGPT application which can help a person code better.
