@@ -2,8 +2,6 @@
 <h3 align="center">A passionate engineering enthusiast currently living in Germany pursuing my masters in computational engineering with mechatronics as my specialization.</h3>
 
 - 🔭 I’m currently working as a Software Engineer Intern at KEYSIGHT Technologies, Böblingen, Stuttgart, Germany.
-- 🔭 Developing an OpenAI chatGPT application which can help a person code better.
-
 - 📫 How to reach me **devdarshan98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
