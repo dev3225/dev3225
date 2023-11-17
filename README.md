@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dev Darshan Kasthuri Umashankar</h1>
 <h3 align="center">A passionate engineering enthusiast currently living in Germany pursuing my masters in computational engineering with mechatronics as my specialization.</h3>
 
-- 🔭 I’m currently working as a Master Thesis student at KEYSIGHT Technologies, Böblingen, Stuttgart, Germany.
+- 🔭 I’m currently working as a Master Thesis student at KEYSIGHT Technologies, Böblingen, Germany.
 - 📫 How to reach me **devdarshan98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
