@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dev Darshan Kasthuri Umashankar</h1>
 
-- Software Developer @ Innovationszentrum für Telekommunikationstechnik
+- Software Developer @ Innovationszentrum für Telekommunikationstechnik GmbH IZT
 - 📫 How to reach me **devdarshan98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
